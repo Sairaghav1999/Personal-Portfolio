@@ -1,14 +1,14 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
+    title: 'Part.Ly',
     subtitle: '2015 BVP Hackathon',
     image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    date: '2019-03-10',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
+      'Built for a hackathon organized by codechef. '
+      + 'App use the concept of parallel downloadin'
+      + 'Saves upto 75% of data and download time '
       + 'the charity of your choice.',
   },
   {
