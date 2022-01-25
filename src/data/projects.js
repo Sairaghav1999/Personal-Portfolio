@@ -9,7 +9,6 @@ const data = [
       'Built for a hackathon organized by codechef. '
       + 'App use the concept of parallel downloadin'
       + 'Saves upto 75% of data and download time '
-      + 'the charity of your choice.',
   },
   {
     title: 'Harvest',
