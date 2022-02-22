@@ -26,8 +26,8 @@ const data = [
   },
   {
     key: 'countries',
-    label: 'Countries visited',
-    value: 53,
+    label: 'Places visited',
+    value: 49,
   },
   {
     key: 'location',
