@@ -3,7 +3,7 @@ const data = [
   {
     title: 'SEVIR Data Analysis',
     link: 'https://github.com/shikashyam/BigDataSystemsCoursework/tree/main/Assignment1',
-    image: '/images/projects/SEVIR.PNG',
+    image: '/images/projects/SEVIRPROJECT.PNG',
     date: '2022-02-10',
   },
   {
