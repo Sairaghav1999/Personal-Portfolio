@@ -30,6 +30,12 @@ const data = [
     image: '/images/projects/arabic.png',
     date: '2021-11-15',
   },
+  {
+    title: 'Epilepsy Seizure Binary Classfication ',
+    link: 'https://github.com/Sairaghav1999/capstone_private',
+    image: '/images/projects/epilepsy.png',
+    date: '2020-05-25',
+  },
   /*{
     title: 'Harvest',
     subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
