@@ -36,6 +36,12 @@ const data = [
     image: '/images/projects/epilepsy.png',
     date: '2020-05-25',
   },
+  {
+    title: 'STOCK PRICE PREDICTION',
+    link: 'https://github.com/Sairaghav1999/stock-price-prediction',
+    image: '/images/projects/stock.jpeg',
+    date: '2019-04-25',
+  },
   /*{
     title: 'Harvest',
     subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
