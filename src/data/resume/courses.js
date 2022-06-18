@@ -12,8 +12,20 @@ const courses = [
     university: 'Northeastern University',
   },
   {
-    title: 'Application Engineering and Development',
-    number: 'INFO 5100',
+    title: 'Data Management and Database Design',
+    number: 'DAMG 6210',
+    link: 'http://catalog.northeastern.edu/course-descriptions/info/',
+    university: 'Northeastern University',
+  },
+  {
+    title: 'Big Data Systems and Intelligent Analytics',
+    number: 'DAMG 7245',
+    link: 'http://catalog.northeastern.edu/course-descriptions/info/',
+    university: 'Northeastern University',
+  },
+  {
+    title: 'Advanced Data Science Architecture',
+    number: 'INFO 7390',
     link: 'http://catalog.northeastern.edu/course-descriptions/info/',
     university: 'Northeastern University',
   },
